@@ -42,13 +42,13 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>">Home</a>
+                    <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>home-two">Home Two</a>
+                    <a class="nav-link" href="index-two.php">Home Two</a>
                 </li>
                  <li class="nav-item">
-                    <a class="nav-link" href="<?php echo $path; ?>home-three">Home Three</a>
+                    <a class="nav-link" href="index-three.php">Home Three</a>
                 </li>
                  <!-- <li class="nav-item">
                     <a class="nav-link" href="<?php //echo $path; ?>#">Beawar Plant</a>
