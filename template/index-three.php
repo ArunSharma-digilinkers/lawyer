@@ -1,6 +1,42 @@
 <?php include_once('inc/header.php'); ?>
 
 <div class="s3">
+ <div id="heroSlider" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="1"></button>
+    </div>
+
+    <div class="carousel-inner">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active">
+            <img src="assets/img/banner1.jpg" class="d-block w-100 slider-img" alt="">
+            <div class="carousel-caption custom-caption animate-caption">
+                <h1>Trusted Legal Expertise</h1>
+                <p>Professional guidance for all your legal challenges.</p>
+            </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item">
+            <img src="assets/img/banner2.jpg" class="d-block w-100 slider-img" alt="">
+            <div class="carousel-caption custom-caption animate-caption">
+                <h1>Protecting Your Rights</h1>
+                <p>Experienced attorneys delivering real results.</p>
+            </div>
+        </div>
+
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#heroSlider" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+
+    <button class="carousel-control-next" type="button" data-bs-target="#heroSlider" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
 
     <section class="office-info-section py-5">
     <div class="container">
@@ -237,8 +273,130 @@
     </div>
 </section>
 
+<div class="section case-studies">
+    <!-- HERO -->
+<div class="case-hero fade-in">
+    <div class="container">
+        <h1 class="display-5 fw-bold">Case Study: Corporate Fraud Litigation</h1>
+        <div class="gold-line"></div>
+        <p class="mt-3">A premium modern layout crafted for law firms</p>
+    </div>
+</div>
 
+<!-- FACT BOXES -->
+<div class="container my-5">
+    <div class="row g-4">
 
+        <div class="col-md-4 slide-up">
+            <div class="case-box text-center">
+                <h5 class="fw-bold">Case Type</h5>
+                <p>Corporate Fraud</p>
+            </div>
+        </div>
+
+        <div class="col-md-4 slide-up">
+            <div class="case-box text-center">
+                <h5 class="fw-bold">Duration</h5>
+                <p>14 Months</p>
+            </div>
+        </div>
+
+        <div class="col-md-4 slide-up">
+            <div class="case-box text-center">
+                <h5 class="fw-bold">Jurisdiction</h5>
+                <p>High Court</p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- CHALLENGE & STRATEGY -->
+<div class="container my-5">
+    <div class="row g-4">
+
+        <div class="col-md-6 fade-in">
+            <div class="case-box">
+                <h4 class="fw-bold">Challenge</h4>
+                <p>
+                    Large-scale corporate fraud with missing financial records, 
+                    requiring deep investigation and strategic legal planning.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-6 fade-in">
+            <div class="case-box">
+                <h4 class="fw-bold">Strategy Timeline</h4>
+
+                <div class="timeline">
+                    <div class="timeline-step">Initial Evidence Review</div>
+                    <div class="timeline-step">Financial Audit Investigation</div>
+                    <div class="timeline-step">Court Filings & Hearings</div>
+                    <div class="timeline-step">Final Judgment & Recovery</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- OUTCOME -->
+<div class="container my-5">
+    <div class="case-box text-center fade-in" style="background:#000; color:#fff;">
+        <h2 class="fw-bold">Outcome</h2>
+        <p class="mt-2">Successful recovery of 92% financial loss</p>
+    </div>
+</div>
+
+</div>
+<!-- WHY US SECTION -->
+<div class="container py-5 fade-in">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold">Why Choose Us</h2>
+        <p class="text-muted">Professional. Trusted. Results-Driven Legal Expertise.</p>
+    </div>
+
+    <div class="row g-4">
+
+        <div class="col-md-4 slide-up">
+            <div class="why-box text-center">
+                <div class="icon-circle">
+                    <i class="bi bi-shield-check"></i>
+                </div>
+                <h5 class="fw-bold">Strong Track Record</h5>
+                <p class="mt-2">
+                    Years of winning complex legal battles with proven success.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-4 slide-up">
+            <div class="why-box text-center">
+                <div class="icon-circle">
+                    <i class="bi bi-briefcase"></i>
+                </div>
+                <h5 class="fw-bold">Expert Legal Team</h5>
+                <p class="mt-2">
+                    A dedicated team specializing in corporate & criminal litigation.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-4 slide-up">
+            <div class="why-box text-center">
+                <div class="icon-circle">
+                    <i class="bi bi-trophy"></i>
+                </div>
+                <h5 class="fw-bold">Client-Focused Results</h5>
+                <p class="mt-2">
+                    We fight for the best possible outcome & client satisfaction.
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
 
 </div>
 
