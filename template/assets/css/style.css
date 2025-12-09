@@ -1017,6 +1017,310 @@ a {
   border-radius: 10px;
 }
 
+.about-section {
+  background: linear-gradient(to bottom, #faf6ef, #ffffff);
+}
+
+/* Heading */
+.about-title {
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.about-subtitle {
+  max-width: 750px;
+  margin: auto;
+  color: #6c757d;
+  font-size: 16px;
+}
+
+/* Boxes */
+.about-box {
+  padding: 20px;
+}
+
+.about-icon {
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+.about-box-title {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.about-box-text {
+  color: #6c757d;
+  font-size: 15px;
+}
+
+/* IMAGE SECTION */
+.law-img {
+  background-image: url("../img/personilized-img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  min-height: 550px;
+}
+
+/* TEXT CONTENT */
+.law-title {
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.law-desc {
+  color: #6c757d;
+  font-size: 15px;
+  margin-bottom: 35px;
+}
+
+/* BOXES */
+.law-box {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  padding: 10px 0;
+}
+
+.law-icon {
+  width: 50px;
+}
+
+.law-box-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.law-box-text {
+  color: #6c757d;
+  font-size: 15px;
+}
+
+/* HR LINE */
+.law-section hr {
+  margin: 20px 0;
+  border-top: 1px solid #e6e6e6;
+}
+
+.case-study-section {
+  background: #ffffff;
+}
+
+.text-gold {
+  color: #c9a45b;
+  letter-spacing: 2px;
+}
+
+.case-box {
+  background: #ffffff;
+  border-radius: 14px;
+  overflow: hidden;
+  transition: 0.4s ease;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.15);
+}
+
+.case-box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 28px rgba(0, 0, 0, 0.25);
+}
+
+.case-img img {
+  width: 100%;
+  border-bottom: 3px solid #c9a45b;
+}
+
+.case-content {
+  padding: 25px;
+}
+
+.case-content h4 {
+  color: #0a1526;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.case-content p {
+  color: #555;
+  margin: 10px 0 15px;
+}
+
+.case-link {
+  color: #c9a45b;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.case-link:hover {
+  letter-spacing: 1px;
+}
+
+/* HERO */
+.hero-section {
+  background: url("https://images.pexels.com/photos/5669602/pexels-photo-5669602.jpeg") center/cover no-repeat;
+  height: 70vh;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.hero-title {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.hero-desc {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* GLOBAL */
+.section-title {
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.section-text {
+  color: #6c757d;
+  font-size: 16px;
+}
+
+/* VALUES */
+.values-section img {
+  width: 70px;
+  margin-bottom: 20px;
+}
+
+.value-box {
+  padding: 25px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* MISSION */
+.mission-box {
+  background: #f8f9fa;
+  border-radius: 10px;
+}
+
+/* WHY US */
+.why-box {
+  background: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #eee;
+  text-align: center;
+}
+
+.why-number {
+  font-size: 40px;
+  font-weight: 700;
+  color: #c29d59;
+}
+
+/* PERSONALIZED ATTENTION */
+.attention-img {
+  background: url("https://images.pexels.com/photos/318461/pexels-photo-318461.jpeg") center/cover no-repeat;
+  height: 100%;
+  min-height: 550px;
+}
+
+.attention-item {
+  display: flex;
+  gap: 20px;
+  padding: 15px 0;
+}
+
+.attention-item img {
+  width: 50px;
+}
+
+/* HERO */
+.about-hero {
+  background: #f7f7f7;
+  padding: 90px 0;
+}
+
+/* STORY */
+.our-story img,
+.manufacturing img {
+  border-radius: 12px;
+}
+
+/* WHY US */
+.feature-box {
+  padding: 30px;
+  border-radius: 14px;
+  background: #fff;
+  transition: all 0.3s ease;
+}
+
+.feature-box:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* MANUFACTURING */
+.manufacturing {
+  background: #f7f7f7;
+}
+
+/* CTA */
+.cta {
+  background: #fff;
+  padding: 80px 0;
+}
+
+/* ANIMATIONS */
+.fade-up {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 0.9s ease forwards;
+}
+
+.fade-left {
+  opacity: 0;
+  transform: translateX(-35px);
+  animation: fadeLeft 0.9s ease forwards;
+}
+
+.fade-right {
+  opacity: 0;
+  transform: translateX(35px);
+  animation: fadeRight 0.9s ease forwards;
+}
+
+.delay-1 {
+  animation-delay: 0.3s;
+}
+
+.delay-2 {
+  animation-delay: 0.6s;
+}
+
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fadeLeft {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes fadeRight {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
 .footer-wrapper {
   background: #222;
   color: #ddd;

@@ -10,3 +10,12 @@ From previous event:
     at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-butler/build/spaces.js:1:410)
     at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-butler/build/spaces.js:1:284)
     at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-butler/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-butler/build/external.js (1)
+[1206/152628.172:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1206/152628.183:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1206/152628.262:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1208/090239.377:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1208/090244.309:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1208/090244.507:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1208/092619.881:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1208/092624.893:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1208/120555.534:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
