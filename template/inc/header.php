@@ -50,18 +50,16 @@
                  <li class="nav-item">
                     <a class="nav-link" href="index-three.php">Home Three</a>
                 </li>
-                 <!-- <li class="nav-item">
-                    <a class="nav-link" href="<?php //echo $path; ?>#">Beawar Plant</a>
+                 <li class="nav-item">
+                    <a class="nav-link" href="about-one.php">About One</a>
                 </li>
                  <li class="nav-item">
-                    <a class="nav-link" href="<?php //echo $path; ?>#">Gallery</a>
+                    <a class="nav-link" href="about-two.php">About Two</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="<?php //echo $path; ?>#">Blog</a>
+                    <a class="nav-link" href="about-three.php">About Three</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php //echo $path; ?>contact-us">Contact</a> -->
-                </li>
+               
             </ul>
         </div>
     </div>

@@ -737,7 +737,7 @@ a {
 }
 .s3 .glass-box {
   padding: 35px;
-  background-color: #4a4a4a;
+  background-color: #090606;
   border-radius: 18px;
   -webkit-backdrop-filter: blur(6px);
           backdrop-filter: blur(6px);
@@ -1204,11 +1204,19 @@ a {
 
 /* MISSION */
 .mission-box {
-  background: #f8f9fa;
+  background: #f3f3f3;
   border-radius: 10px;
+  height: 100%;
 }
 
 /* WHY US */
+.why-choose-us-three {
+  background-color: #8b5400;
+}
+.why-choose-us-three h2 {
+  color: #fff;
+}
+
 .why-box {
   background: #fff;
   padding: 25px;

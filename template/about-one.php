@@ -20,21 +20,15 @@
                 <div class="gold-line"></div>
 
                 <p class="text-muted mt-3">
-                   We are a dedicated team of experienced legal professionals committed to delivering 
-                   justice with integrity, precision, and expertise. With decades of combined experience, 
-                   our firm handles complex legal challenges with a strategic, client-focused approach.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus mollitia ducimus quae aperiam. Quam vel eligendi accusantium corrupti illum, facere nisi, fugiat ipsum quis corporis ullam adipisci blanditiis possimus omnis nostrum perspiciatis quisquam. Odio veniam omnis fuga velit ab eum non earum totam at nostrum provident, aut perferendis ipsam nihil.
                 </p>
 
                 <p class="text-muted">
-                    We believe in clear communication, strong preparation, and tireless advocacy. Whether 
-                    representing individuals, businesses, or corporate entities, we work relentlessly to ensure 
-                    every case receives the attention, research, and legal excellence it deserves.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur dignissimos natus sunt quisquam deserunt ipsam, earum corrupti neque commodi modi alias laboriosam aliquam a incidunt hic. In itaque ducimus nihil labore aut eius praesentium a.
                 </p>
 
                   <p class="text-muted">
-                    Our reputation is built on fairness, ethical practice, and consistent results. From litigation 
-                    to consultation, we provide transparent guidance, strong courtroom representation, and 
-                    solutions tailored to each client’s unique circumstances.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime qui sed, fugiat voluptates recusandae aliquam reiciendis nam corrupti laudantium perspiciatis distinctio voluptatem et quia sit harum nobis. Ab dolorum adipisci porro alias laudantium voluptatibus veritatis.
                 </p>
             </div>
         </div>
@@ -50,9 +44,7 @@
         <div class="text-center mb-5">
             <h2 class="about-title">Discover More About Our Law Firm</h2>
             <p class="about-subtitle">
-                We provide strategic legal expertise backed by years of experience, thoughtful
-                representation, and a commitment to justice. Our firm focuses on personalized
-                solutions for every legal challenge.
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi repudiandae temporibus facilis explicabo aliquam fugiat quasi optio quidem laboriosam? Quasi exercitationem distinctio debitis veritatis aut! Odit quod omnis sequi, blanditiis animi, molestiae quos eum quis recusandae hic a atque quidem.
             </p>
         </div>
 
@@ -64,8 +56,7 @@
                     <img src="https://cdn-icons-png.flaticon.com/256/3500/3500833.png" class="about-icon">
                     <h5 class="about-box-title">Expert Legal Guidance</h5>
                     <p class="about-box-text">
-                        Our attorneys analyze every case carefully to provide strong, evidence-based 
-                        legal strategies tailored to your needs.
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto possimus impedit vero doloremque. Laborum reiciendis ex temporibus. Enim iure beatae soluta qui aperiam, nihil dignissimos ut neque magni, mollitia voluptates?
                     </p>
                 </div>
             </div>
@@ -75,8 +66,7 @@
                     <img src="https://cdn-icons-png.flaticon.com/256/1827/1827952.png" class="about-icon">
                     <h5 class="about-box-title">Years of Experience</h5>
                     <p class="about-box-text">
-                        With a proven track record, our firm has successfully handled complex 
-                        litigation and high-profile legal matters.
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore corporis id odio possimus nihil fugiat iste error modi, voluptate consectetur, ex perspiciatis architecto minus. Eum quaerat voluptate non accusantium, saepe ut quibusdam quasi eaque! Blanditiis molestias sit omnis, hic esse debitis excepturi voluptatem voluptas facilis?
                     </p>
                 </div>
             </div>
@@ -86,8 +76,7 @@
                     <img src="https://cdn-icons-png.flaticon.com/256/942/942748.png" class="about-icon">
                     <h5 class="about-box-title">Winning Case Results</h5>
                     <p class="about-box-text">
-                        Our dedication, precision, and legal strength have led to consistent 
-                        success for clients across diverse legal disputes.
+                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates obcaecati eum, alias recusandae, ratione praesentium, cumque velit eveniet repudiandae nulla ut dicta nostrum dolor repellendus adipisci? Ullam atque ab commodi repudiandae dolor perspiciatis odit fuga.
                     </p>
                 </div>
             </div>
@@ -178,7 +167,7 @@
                     </div>
                     <div class="case-content">
                         <h4>Corporate Compliance Case</h4>
-                        <p>Successfully handled complex regulatory compliance for a large enterprise.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem reiciendis reprehenderit quasi eos veniam nam ad placeat illo. Quo, voluptatum!</p>
                         <a href="#" class="case-link">View Details →</a>
                     </div>
                 </div>
@@ -192,7 +181,7 @@
                     </div>
                     <div class="case-content">
                         <h4>High-Profile Criminal Defense</h4>
-                        <p>Provided strong representation resulting in a favorable and fair outcome.</p>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit at dignissimos sunt amet quidem ad excepturi reprehenderit error recusandae voluptatem?</p>
                         <a href="#" class="case-link">View Details →</a>
                     </div>
                 </div>
@@ -206,7 +195,7 @@
                     </div>
                     <div class="case-content">
                         <h4>Family Dispute Resolution</h4>
-                        <p>Successfully mediated and resolved a sensitive family legal dispute.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fugiat enim explicabo eos, id aspernatur expedita quidem quos neque tempore.</p>
                         <a href="#" class="case-link">View Details →</a>
                     </div>
                 </div>

@@ -81,7 +81,7 @@
                 <div class="glass-box">
                     <i class="fa-solid fa-gavel"></i>
                     <h4>Corporate Law</h4>
-                    <p>High-level legal consultation for business compliance and contracts.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo modi dolores velit voluptatibus incidunt aperiam rem quae iusto ut repellendus!</p>
                 </div>
             </div>
 
@@ -89,7 +89,7 @@
                 <div class="glass-box">
                     <i class="fa-solid fa-handshake"></i>
                     <h4>Mediation</h4>
-                    <p>Professional dispute resolution without lengthy court processes.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam libero incidunt odit repellendus repudiandae quia dicta numquam dignissimos distinctio ipsa!</p>
                 </div>
             </div>
 
@@ -97,14 +97,14 @@
                 <div class="glass-box">
                     <i class="fa-solid fa-landmark"></i>
                     <h4>Property Law</h4>
-                    <p>Secure legal help for property disputes and documentation.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam corporis minima similique doloribus praesentium vel sit accusamus ex repellat harum?</p>
                 </div>
             </div>
                 <div class="col-lg-4 col-md-6">
                 <div class="glass-box">
                     <i class="fa-solid fa-gavel"></i>
                     <h4>Corporate Law</h4>
-                    <p>High-level legal consultation for business compliance and contracts.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis soluta, repellendus culpa sunt explicabo ipsum quam in harum perferendis ipsam.</p>
                 </div>
             </div>
 
@@ -112,7 +112,7 @@
                 <div class="glass-box">
                     <i class="fa-solid fa-handshake"></i>
                     <h4>Mediation</h4>
-                    <p>Professional dispute resolution without lengthy court processes.</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima similique, sed odio autem ab in laborum non consequuntur quis quos.</p>
                 </div>
             </div>
 
@@ -120,7 +120,7 @@
                 <div class="glass-box">
                     <i class="fa-solid fa-landmark"></i>
                     <h4>Property Law</h4>
-                    <p>Secure legal help for property disputes and documentation.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam hic aspernatur nisi repellat, possimus maiores quae dicta sed neque ipsum.</p>
                 </div>
             </div>
         </div>
@@ -147,9 +147,7 @@
                     <h5 class="subtitle">Who We Are</h5>
                     <h2 class="title">Dedicated to Protecting Your Legal Rights</h2>
                     <p>
-                        We are a team of highly experienced attorneys offering trusted legal solutions 
-                        across criminal, civil, family, and corporate law. Our commitment is to provide 
-                        strategic representation with honesty, transparency, and professionalism.
+                       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum, neque repellat sed officiis accusamus praesentium veritatis. Sunt corporis voluptas adipisci odit atque nobis maiores eius reiciendis asperiores pariatur saepe eos sed quas, voluptate fuga minima!
                     </p>
 
                     <div class="about-highlights">
@@ -194,7 +192,7 @@
                         <div class="col-md-5">
                             <div class="testimonial-card">
                                 <div class="client-img">
-                                    <img src="https://i.pravatar.cc/120" alt="">
+                                    <img src="assets/img/profile-1-2.jpg" alt="">
                                 </div>
                                 <h4 class="client-name">Johnson</h4>
                                 <p class="client-role">Business Owner</p>
@@ -202,14 +200,14 @@
                                 <div class="stars">★★★★★</div>
 
                                 <p class="client-review">
-                                    “Very professional and honest guidance. The legal team handled my case smoothly with clear communication.”
+                                    “Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat aspernatur blanditiis quaerat vitae, nisi maxime dolorem impedit harum similique nam!”
                                 </p>
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="testimonial-card">
                                 <div class="client-img">
-                                    <img src="https://i.pravatar.cc/121" alt="">
+                                    <img src="assets/img/profile-1-2.jpg" alt="">
                                 </div>
                                 <h4 class="client-name">Lara</h4>
                                 <p class="client-role">HR Manager</p>
@@ -217,7 +215,7 @@
                                 <div class="stars">★★★★★</div>
 
                                 <p class="client-review">
-                                    “I felt confident and protected. The lawyers were responsive and genuinely cared about the outcome.”
+                                    “Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ratione repellat illo debitis expedita dolorem repellendus beatae ad! Nihil, quam?”
                                 </p>
                             </div>
                         </div>
@@ -230,7 +228,7 @@
                         <div class="col-md-5">
                             <div class="testimonial-card">
                                 <div class="client-img">
-                                    <img src="" alt="">
+                                    <img src="assets/img/profile-1-2.jpg" alt="">
                                 </div>
                                 <h4 class="client-name">David</h4>
                                 <p class="client-role">Entrepreneur</p>
@@ -238,14 +236,14 @@
                                 <div class="stars">★★★★★</div>
 
                                 <p class="client-review">
-                                    “Excellent strategy and communication. Highly recommended for anyone seeking strong legal representation.”
+                                    “Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio ipsa maiores voluptatibus quo earum, quam exercitationem quae unde aut possimus.”
                                 </p>
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="testimonial-card">
                                 <div class="client-img">
-                                    <img src="" alt="">
+                                    <img src="assets/img/profile-1-2.jpg" alt="">
                                 </div>
                                 <h4 class="client-name">Jassica</h4>
                                 <p class="client-role">Director</p>
@@ -253,7 +251,7 @@
                                 <div class="stars">★★★★★</div>
 
                                 <p class="client-review">
-                                    “A professional team that truly stands with their clients. Smooth experience from start to finish.”
+                                    “Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut accusantium accusamus labore id minus libero temporibus fuga voluptas laboriosam delectus.”
                                 </p>
                             </div>
                         </div>
@@ -362,7 +360,7 @@
         <div class="col-md-4 slide-up">
             <div class="why-box text-center">
                 <div class="icon-circle">
-                    <i class="bi bi-shield-check"></i>
+                  <i class="fa-solid fa-trophy"></i>
                 </div>
                 <h5 class="fw-bold">Strong Track Record</h5>
                 <p class="mt-2">
@@ -374,7 +372,7 @@
         <div class="col-md-4 slide-up">
             <div class="why-box text-center">
                 <div class="icon-circle">
-                    <i class="bi bi-briefcase"></i>
+                    <i class="fa-solid fa-briefcase"></i>
                 </div>
                 <h5 class="fw-bold">Expert Legal Team</h5>
                 <p class="mt-2">
@@ -386,7 +384,7 @@
         <div class="col-md-4 slide-up">
             <div class="why-box text-center">
                 <div class="icon-circle">
-                    <i class="bi bi-trophy"></i>
+                    <i class="fa-solid fa-trophy"></i>
                 </div>
                 <h5 class="fw-bold">Client-Focused Results</h5>
                 <p class="mt-2">
@@ -397,6 +395,7 @@
 
     </div>
 </div>
+
 
 </div>
 

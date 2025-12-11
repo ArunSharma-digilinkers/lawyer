@@ -1,11 +1,4 @@
 <?php include_once('inc/header.php'); ?>
-<!-- HERO -->
-<section class="hero-section d-flex align-items-center">
-    <div class="container text-center">
-        <h1 class="hero-title">We Fight for Justice with Integrity</h1>
-        <p class="hero-desc">Experienced legal professionals dedicated to fairness, transparency and results.</p>
-    </div>
-</section>
 
 <!-- WHO WE ARE -->
 <section class="who-section py-5">
@@ -15,13 +8,10 @@
             <div class="col-lg-6">
                 <h2 class="section-title">Who We Are</h2>
                 <p class="section-text">
-                    We are a team of highly trained legal professionals committed to delivering justice with precision.
-                    Our firm handles complex legal challenges with dedication, offering customized solutions to protect 
-                    your rights and interests.
+                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt facere consectetur soluta fugiat facilis quidem sunt, maiores saepe enim error, officiis voluptatem non perspiciatis odio voluptatibus officia. Quis, explicabo inventore.
                 </p>
                 <p class="section-text">
-                    From civil disputes to corporate litigation, we provide ethical, strategic, and client-oriented 
-                    legal support at every stage of your journey.
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci numquam dignissimos fugiat repellat quod nam inventore. Fugiat assumenda sunt omnis. Commodi molestiae minima itaque, impedit pariatur sit possimus illum, incidunt inventore magni nostrum minus libero voluptatum aliquid voluptas voluptatibus. Quia, deleniti! Voluptatum consequuntur quas architecto officiis sunt, eveniet corrupti. Doloremque.
                 </p>
             </div>
 
@@ -44,7 +34,7 @@
                 <div class="value-box">
                     <img src="https://cdn-icons-png.flaticon.com/256/1029/1029028.png">
                     <h5>Honesty & Transparency</h5>
-                    <p>We represent truth and fairness to build trust and long-term relationships.</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque aspernatur numquam, ut provident ullam blanditiis?</p>
                 </div>
             </div>
 
@@ -52,7 +42,7 @@
                 <div class="value-box">
                     <img src="https://cdn-icons-png.flaticon.com/256/942/942748.png">
                     <h5>Professional Excellence</h5>
-                    <p>Our team delivers precise legal solutions backed by years of expertise.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero consequuntur sunt repudiandae accusamus praesentium blanditiis?</p>
                 </div>
             </div>
 
@@ -60,7 +50,7 @@
                 <div class="value-box">
                     <img src="https://cdn-icons-png.flaticon.com/256/3135/3135715.png">
                     <h5>Client First Approach</h5>
-                    <p>We design legal strategies focused on your needs, goals, and well-being.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero reiciendis maxime laborum amet? Obcaecati, perspiciatis!</p>
                 </div>
             </div>
 
